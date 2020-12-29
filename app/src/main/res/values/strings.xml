@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Attendance Manager</string>
+    <string name="user">enter username</string>
+    <string name="pass">enter password</string>
+    <string name="login">Login</string>
+    <string name="min">Enter Minimum Attendance Criteria</string>
+    <string name="timing">Enter college timing</string>
+    <string name="next">Next</string>
+    <string name="esub">Enter name of Subject</string>
+    <string name="attended">Attended</string>
+</resources>
